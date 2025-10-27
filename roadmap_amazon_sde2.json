@@ -1,0 +1,14 @@
+{
+  "company": "Amazon",
+  "role": "SDE-2",
+  "rounds": [],
+  "difficulty": "Medium",
+  "recommended_order": [
+    "Data Structures & Algorithms",
+    "System Design",
+    "Behavioral"
+  ],
+  "estimated_prep_time": "2-3 months",
+  "key_skills": [],
+  "generated_at": "2025-10-27 04:37:38"
+}
